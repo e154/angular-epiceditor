@@ -4,7 +4,7 @@ forked from https://github.com/programmieraffe/angular-editors/blob/master/edito
 
 ## Install with Bower
 
-`bower install angular-epiceditor`
+`bower install e154/angular-epiceditor --save`
 
 ## How to Use
 
