@@ -1,0 +1,26 @@
+{
+  "name": "angular-epiceditor",
+  "version": "1.0.0",
+  "authors": [
+    "delta54 <support@e154.ru>"
+  ],
+  "description": "angular epic editor",
+  "main": "angular-epiceditor.js",
+  "dependencies": {
+    "EpicEditor": "~0.2.3"
+  },
+  "keywords": [
+    "angular",
+    "epic editor",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "http://e154.ru/blog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
