@@ -72,7 +72,7 @@
                     });
 
                     // Editor unloaded
-                    scope.$on('$locationChangeStart', function (event, next, current) {
+                    scope.$on('$destroy', function (event, next, current) {
                         editor.unload(function () {
                             //...
                         });
